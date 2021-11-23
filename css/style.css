@@ -70,7 +70,7 @@ body {
   align-items: center;
   gap: 1.5rem;
 }
-.stats__numbers h4 {
+.stats__numbers h3 {
   color: white;
   font-size: 1.5rem;
   margin-bottom: 5px;
